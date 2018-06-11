@@ -1,0 +1,4 @@
+sortant,Matricule,effectif,taux evolution,mois_an,Anciennete,service,Salaire,Sex,Ranking,Manager,eloignement,indice_croissance,date_out
+1,M00001,1,1,juin-18,5,PAIE,35000,H,1,Martine,15,115,juin-18
+1,M00002,1,2,juin-18,5,COMPTA,40000,H,1,Martine,15,115,juin-18
+1,M00003,1,1,juin-18,4,COMPTA,40000,H,1,Martine,15,115,juin-18
