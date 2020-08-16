@@ -1,0 +1,13 @@
+num_secu;nom;prenom;Ages;Motif visite;Echelle de douleur - EVA;Urgence;Temps prévu;Proposition téléconsultation;email retard - avance;patient  covid / autres virus epidemique;Fiche patient;Interogatoire medicale;temperature;PA H;PA L;Frequence cardiaque;Saturation en oxygene;Avec RDV / Sans RDV;date derniere consultation;duree moyenne 3 dernieres consultations;nouveau patient;date_heure_rdv_prevu;date_heure_prevision
+223345481;duran;fabien;6;pathologie;3;OUI;10;;;NON;Fait;Fait;40;;;;90%;sans RDV;25/04/2018; 10 ;;2020-07-29T08:00:00,853Z;2020-07-29T08:10:00,853Z
+123345482;fina;martine;50;renouvellement;2;NON;15;OUI;OUI;NON;Fait;Fait;38;12;8;60;98%;Avec RDV;12/12/2016; 10 ;;2020-07-29T08:15:00,853Z;2020-07-29T08:25:00,853Z
+123345483;thee;max;25;pathologie;3;NON;12;;;NON;En cours;En cours;39;15;8;70;97%;Avec RDV;; 10 ;Oui;2020-07-29T08:30:00,853Z;2020-07-29T08:45:00,853Z
+1;N1;martin;25;pathologie;3;OUI;8;;;NON;Fait;Fait;40;;;;90%;sans RDV;25/04/2018; 10 ;;2020-07-29T08:45:00,853Z;2020-07-29T08:45:00,853Z
+2;N2;Paul;28;renouvellement;2;NON;10;OUI;OUI;NON;Fait;Fait;38;12;8;60;98%;Avec RDV;12/12/2016; 10 ;;2020-07-29T09:00:00,853Z;2020-07-29T09:00:00,853Z
+3;N3;Jack;45;pathologie;3;NON;10;;;NON;En cours;En cours;39;15;8;70;97%;Avec RDV;; 10 ;Oui;2020-07-29T09:15:00,853Z;2020-07-29T09:15:00,853Z
+4;N4;Alain;60;pathologie;3;OUI;15;;;NON;Fait;à faire;40;;;;90%;sans RDV;25/04/2018; 10 ;;2020-07-29T09:30:00,853Z;2020-07-29T09:30:00,853Z
+5;N5;Mohamed;70;renouvellement;2;NON;18;OUI;OUI;NON;Fait;à faire;38;12;8;60;98%;Avec RDV;12/12/2016; 10 ;;2020-07-29T09:45:00,853Z;2020-07-29T09:45:00,853Z
+6;N6;Madeleine;75;pathologie;3;NON;12;;;NON;En cours;à faire;39;15;8;70;97%;Avec RDV;; 10 ;Oui;2020-07-29T10:00:00,853Z;2020-07-29T10:00:00,853Z
+8;N7;Delphine;50;pathologie;3;OUI;12;;;NON;Fait;à faire;40;;;;90%;sans RDV;25/04/2018; 10 ;;2020-07-29T10:15:00,853Z;2020-07-29T10:15:00,853Z
+9;N8;Sabine;50;renouvellement;2;NON;10;OUI;OUI;NON;Fait;Fait;38;12;8;60;98%;Avec RDV;12/12/2016; 10 ;;2020-07-29T10:30:00,853Z;2020-07-29T10:30:00,853Z
+10;N9;Cloé;18;pathologie;3;NON;16;;;NON;En cours;à faire;39;15;8;70;97%;Avec RDV;; 10 ;Oui;2020-07-29T10:45:00,853Z;2020-07-29T10:45:00,853Z
